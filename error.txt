@@ -1,0 +1,334 @@
+warning: could not open directory 'Library/PackageCache/com.unity.cinemachine@2.9.7/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door/Materials/': Filename too long
+warning: could not open directory 'Library/PackageCache/com.unity.cinemachine@2.9.7/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Animations/': Filename too long
+warning: could not open directory 'Library/PackageCache/com.unity.cinemachine@2.9.7/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Controllers/': Filename too long
+warning: could not open directory 'Library/PackageCache/com.unity.cinemachine@2.9.7/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Models/': Filename too long
+warning: could not open directory 'Library/PackageCache/com.unity.cinemachine@2.9.7/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Prefabs/': Filename too long
+warning: could not open directory 'Library/PackageCache/com.unity.cinemachine@2.9.7/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Scripts/': Filename too long
+warning: could not open directory 'Library/PackageCache/com.unity.collab-proxy@2.3.1/Editor/PlasticSCM/Views/IncomingChanges/Developer/DirectoryConflicts/': Filename too long
+warning: could not open directory 'Library/PackageCache/com.unity.ide.visualstudio@2.0.22/Editor/AppleEventIntegration~/AppleEventIntegration.xcodeproj/': Filename too long
+warning: could not open directory 'Library/PackageCache/com.unity.ide.visualstudio@2.0.22/Editor/Plugins/AppleEventIntegration.bundle/Contents/_CodeSignature/': Filename too long
+warning: could not open directory 'Library/PackageCache/com.unity.visualscripting@1.9.1/Editor/VisualScripting.Core/Dependencies/ReorderableList/ElementAdderMenu/': Filename too long
+warning: could not open directory 'Library/PackageCache/com.unity.visualscripting@1.9.1/Editor/VisualScripting.Core/Dependencies/ReorderableList/Internal/': Filename too long
+warning: could not open directory 'Library/PackageCache/com.unity.visualscripting@1.9.1/Editor/VisualScripting.Core/Plugin/Changelogs/LegacyLudiqGraphs/': Filename too long
+warning: could not open directory 'Library/PackageCache/com.unity.visualscripting@1.9.1/Editor/VisualScripting.Core/Windows/GenerateDocumentationWindow/': Filename too long
+warning: could not open directory 'Library/PackageCache/com.unity.visualscripting@1.9.1/Editor/VisualScripting.Core/Windows/GeneratePropertyProvidersWindow/': Filename too long
+warning: could not open directory 'Library/PackageCache/com.unity.visualscripting@1.9.1/Runtime/VisualScripting.Core/Dependencies/AssemblyQualifiedNameParser/': Filename too long
+warning: could not open directory 'Library/PackageCache/com.unity.visualscripting@1.9.1/Runtime/VisualScripting.Core/Dependencies/FullSerializer/Converters/': Filename too long
+warning: could not open directory 'Library/PackageCache/com.unity.visualscripting@1.9.1/Runtime/VisualScripting.Core/Dependencies/FullSerializer/Internal/': Filename too long
+warning: could not open directory 'Library/PackageCache/com.unity.visualscripting@1.9.1/Runtime/VisualScripting.Core/Dependencies/FullSerializer/Reflection/': Filename too long
+warning: could not open directory 'Library/PackageCache/com.unity.visualscripting@1.9.1/Runtime/VisualScripting.Flow/Framework/Collections/Dictionaries/': Filename too long
+warning: could not open directory 'Library/PackageCache/com.unity.visualscripting@1.9.1/Runtime/VisualScripting.Flow/Framework/Events/Input/InputSystem/': Filename too long
+warning: in the working copy of '.vsconfig', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Audio.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Audio/AudioMixer.mixer', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Audio/AudioMixer.mixer.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Data.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Data/Skin.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Data/Skin/Skin Instance.asset', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Data/Skin/Skin Instance.asset.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Gradients.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Gradients/Gradient Score.asset', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Gradients/Gradient Score.asset.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Gradients/Gradient Title.asset', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Gradients/Gradient Title.asset.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Materials.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Materials/Balls.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Materials/Balls/Starry Night.mat', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Materials/Balls/Starry Night.mat.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Materials/Balls/Tiger.mat', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Materials/Balls/Tiger.mat.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Materials/Balls/World.mat', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Materials/Balls/World.mat.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Materials/Coins.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Materials/Coins/Coin.mat', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Materials/Coins/Coin.mat.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Materials/Floors.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Materials/Floors/Background.mat', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Materials/Floors/Background.mat.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Materials/Floors/Stone Floor.mat', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Materials/Floors/Stone Floor.mat.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Materials/Walls.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Materials/Walls/Wooden Walls.mat', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Materials/Walls/Wooden Walls.mat.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/Buttons.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/Buttons/PNG.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/Buttons/PNG/10Button_Midl_Yellow.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/Buttons/PNG/11Button_Midl_Blue.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/Buttons/PNG/12Button_Long_Blue.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/Buttons/PNG/13Button_Long_Green.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/Buttons/PNG/14Button_Long_Red.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/Buttons/PNG/15Button_Long_Yellow.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/Buttons/PNG/16bttn-little.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/Buttons/PNG/17bttn-little.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/Buttons/PNG/18bttn-little.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/Buttons/PNG/19bttn-midl.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/Buttons/PNG/1button_green_middle.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/Buttons/PNG/20bttn-midl.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/Buttons/PNG/21bttn-midl.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/Buttons/PNG/22Button_Midl_Green.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/Buttons/PNG/23Button_Midl_Red.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/Buttons/PNG/24Button_Midl_Blue.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/Buttons/PNG/25Button_Long_Green.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/Buttons/PNG/26Button_Long_Blue.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/Buttons/PNG/27Button_Long_Red.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/Buttons/PNG/28button_green.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/Buttons/PNG/29button_blue.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/Buttons/PNG/2button_blue_middle.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/Buttons/PNG/30button_red.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/Buttons/PNG/3button_green_middle.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/Buttons/PNG/4button_green_middle.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/Buttons/PNG/5button_blue_middle.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/Buttons/PNG/6button_green_middle.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/Buttons/PNG/7button_green_middle.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/Buttons/PNG/8Button_Midl_Red.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/Buttons/PNG/9Button_Midl_Green.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/Buttons/buttons.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/Buttons/buttons.psd.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/Buttons/buttons_Back.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Fonts.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Fonts/Poppins-Bold.ttf.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Fonts/Poppins-MediumItalic.ttf.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/buttons.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/buttons/button_100.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/buttons/button_150.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/buttons/button_200.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/buttons/button_round_130.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/buttons/button_round_220.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/buttons/button_round_320.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/buttons/button_round_400.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/controls.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/controls/cross.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/controls/cross_02.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/controls/cross_03.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/controls/cross_04.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/controls/radio.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/controls/radio_100.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/controls/radio_200.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/controls/radio_60.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/controls/slider_handle.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/controls/toggle_bg_100.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/controls/toggle_bg_200.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/controls/toggle_bg_50.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/controls/universal_panel_10.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/controls/universal_panel_20.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/controls/universal_panel_40.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/128x128.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/128x128/arrow_down.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/128x128/arrow_left.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/128x128/arrow_right.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/128x128/arrow_up.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/128x128/checkmark.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/128x128/heart.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/128x128/help.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/128x128/info.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/128x128/menu.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/128x128/message.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/128x128/minus.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/128x128/pause.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/128x128/play.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/128x128/plus.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/128x128/repeat.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/128x128/settings.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/128x128/share.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/128x128/speaker.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/128x128/star.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/128x128/user.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/128x128/x.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/256x256.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/256x256/arrow_down.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/256x256/arrow_left.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/256x256/arrow_right.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/256x256/arrow_up.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/256x256/checkmark.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/256x256/heart.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/256x256/help.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/256x256/info.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/256x256/menu.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/256x256/message.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/256x256/minus.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/256x256/pause.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/256x256/play.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/256x256/plus.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/256x256/repeat.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/256x256/settings.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/256x256/share.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/256x256/speaker.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/256x256/star.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/256x256/user.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/256x256/x.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/32x32.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/32x32/arrow_down.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/32x32/arrow_left.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/32x32/arrow_right.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/32x32/arrow_up.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/32x32/checkmark.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/32x32/heart.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/32x32/help.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/32x32/info.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/32x32/menu.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/32x32/message.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/32x32/minus.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/32x32/pause.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/32x32/play.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/32x32/plus.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/32x32/repeat.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/32x32/settings.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/32x32/share.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/32x32/speaker.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/32x32/star.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/32x32/user.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/32x32/x.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/64x64.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/64x64/arrow_down.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/64x64/arrow_left.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/64x64/arrow_right.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/64x64/arrow_up.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/64x64/checkmark.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/64x64/heart.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/64x64/help.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/64x64/info.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/64x64/menu.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/64x64/message.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/64x64/minus.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/64x64/pause.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/64x64/play.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/64x64/plus.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/64x64/repeat.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/64x64/settings.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/64x64/share.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/64x64/speaker.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/64x64/star.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/64x64/user.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/FreeButtonSet/Textures/icons/64x64/x.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/Hand Painted Seamless Wood Texture.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/Hand Painted Seamless Wood Texture/Textures.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/Hand Painted Seamless Wood Texture/Textures/Wood1.tga.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/Hand Painted Seamless Wood Texture/Textures/Wood2.tga.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/StoneFloorTexture.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/StoneFloorTexture/stone_floor_d.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/Common.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/Common/Images.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/Common/Images/Heathen Corporate.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/Common/Images/Heathen Corporate/Heathen Logo 2019.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/Common/Images/Heathen Corporate/Heathen Logo With FullName.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/Common/Images/Heathen Corporate/Heathen Logo With ShortName.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/Common/Images/Heathen Corporate/HeathenLogoVectorized.svg.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/HeathenEngineering.UX.asmdef', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/HeathenEngineering.UX.asmdef.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free].meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow 1 E Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow 1 N Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow 1 NE Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow 1 NW Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow 1 S Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow 1 SE Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow 1 SW Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow 1 W Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow 2 E Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow 2 N Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow 2 NE Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow 2 NW Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow 2 S Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow 2 SE Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow 2 SW Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow 2 W Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow 3 E Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow 3 N Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow 3 NE Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow 3 NW Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow 3 S Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow 3 SE Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow 3 SW Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow 3 W Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow 4 E Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow 4 N Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow 4 NE Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow 4 NW Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow 4 S Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow 4 SE Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow 4 SW Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow 4 W Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow 5 E Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow 5 N Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow 5 NE Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow 5 NW Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow 5 S Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow 5 SE Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow 5 SW Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow 5 W Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow 6 E Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow 6 N Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow 6 NE Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow 6 NW Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow 6 S Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow 6 SE Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow 6 SW Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow 6 W Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow 7 E Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow 7 N Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow 7 NE Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow 7 NW Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow 7 S Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow 7 SE Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow 7 SW Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow 7 W Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow Curved Left 1 Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow Curved Left 2 Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow Curved Right 1 Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Arrow Curved Right 2 Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Award Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Bag 1 Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Bag 2 Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Banner Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Battery Empty Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Battery No Dash Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Battery No Dashless Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Battery No Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Battery Smooth 1 Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Battery Smooth 2 Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Battery Smooth 3 Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Battery Smooth 4 Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Battery Smooth 5 Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Battery Smooth Fill Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Battery Tick 1 Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Battery Tick 2 Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Battery Tick 3 Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Battery Tick 4 Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Battery Tick 5 Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Battery Tick 6 Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Battery Tick Fill Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Border Double 1-1pt Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Border Double 1-2pt Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Border Double 1-3pt Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Border Double 1-4pt Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Border Double 1-5pt Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Border Double 2-1pt Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Border Double 3-1pt Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Border Double 4-1pt Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Border Double 5-1pt Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Border Single 1pt Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Border Single 2pt Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Border Single 3pt Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Border Single 4pt Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Border Single 5pt Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Border Single 6pt Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Border Single 7pt Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Border Single 8pt Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Button Blank A Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Button Blank B Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Button Blank Circle Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Button Blank Cross Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Button Blank Left 1 Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Button Blank Left 2 Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Button Blank Left 3 Icon.png.meta', LF will be replaced by CRLF the next time Git touches it
+error: open("Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Button Blank Left Bumper Icon.png.meta"): Filename too long
+error: unable to index file 'Assets/Packages/_Heathen Engineering/Assets/UX/Icons/Flat Icons [Free]/Free Flat Button Blank Left Bumper Icon.png.meta'
+fatal: adding files failed
